@@ -1,0 +1,1 @@
+console.log("[ExampleResource] Server Resource Started");
